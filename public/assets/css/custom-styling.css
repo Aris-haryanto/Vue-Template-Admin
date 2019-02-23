@@ -1,0 +1,6 @@
+.bg-gray {
+	    background: #F7F7F7;
+	    width: 100%;
+	    height: -webkit-fill-available;
+	    position: absolute;
+}
